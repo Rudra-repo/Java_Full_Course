@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "FunctionsandMethods",
+            "request": "launch",
+            "mainClass": "FunctionsandMethods",
+            "projectName": "JAVA Full Course _cbbc34ea"
+        },
+        {
+            "type": "java",
+            "name": "Advance_practice",
+            "request": "launch",
+            "mainClass": "Advance_practice",
+            "projectName": "JAVA Full Course _cbbc34ea"
+        },
+        {
+            "type": "java",
+            "name": "Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "JAVA Full Course _cbbc34ea"
+        },
+        {
+            "type": "java",
+            "name": "InnerLoops",
+            "request": "launch",
+            "mainClass": "InnerLoops",
+            "projectName": "JAVA Full Course _cbbc34ea"
+        },
+        {
+            "type": "java",
+            "name": "Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "JAVA Full Course _cbbc34ea"
+        },
+        {
+            "type": "java",
+            "name": "Conditional_Statements",
+            "request": "launch",
+            "mainClass": "Conditional_Statements",
+            "projectName": "JAVA Full Course _cbbc34ea"
+        },
+        {
+            "type": "java",
+            "name": "Variables",
+            "request": "launch",
+            "mainClass": "Variables",
+            "projectName": "JAVA Full Course _cbbc34ea"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "JAVA Full Course _cbbc34ea"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "JAVA Full Course _cbbc34ea"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "FirstClass",
+            "request": "launch",
+            "mainClass": "FirstClass",
+            "projectName": "JAVA Full Course _cbbc34ea"
+        }
+    ]
+}
