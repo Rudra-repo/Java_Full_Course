@@ -6,6 +6,104 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Two_D_Array",
+            "request": "launch",
+            "mainClass": "Two_D_Array",
+            "projectName": "JAVA Full Course _cbbc34ea"
+        },
+        {
+            "type": "java",
+            "name": "sumOfPairs",
+            "request": "launch",
+            "mainClass": "sumOfPairs",
+            "projectName": "JAVA Full Course _cbbc34ea"
+        },
+        {
+            "type": "java",
+            "name": "activityay",
+            "request": "launch",
+            "mainClass": "activityay",
+            "projectName": "JAVA Full Course _cbbc34ea"
+        },
+        {
+            "type": "java",
+            "name": "activityArra",
+            "request": "launch",
+            "mainClass": "activityArra",
+            "projectName": "JAVA Full Course _cbbc34ea"
+        },
+        {
+            "type": "java",
+            "name": "array",
+            "request": "launch",
+            "mainClass": "array",
+            "projectName": "JAVA Full Course _cbbc34ea"
+        },
+        {
+            "type": "java",
+            "name": "acticity",
+            "request": "launch",
+            "mainClass": "acticity",
+            "projectName": "JAVA Full Course _cbbc34ea"
+        },
+        {
+            "type": "java",
+            "name": "strings",
+            "request": "launch",
+            "mainClass": "strings",
+            "projectName": "JAVA Full Course _cbbc34ea"
+        },
+        {
+            "type": "java",
+            "name": "maths",
+            "request": "launch",
+            "mainClass": "maths",
+            "projectName": "JAVA Full Course _cbbc34ea"
+        },
+        {
+            "type": "java",
+            "name": "hollow_daimond",
+            "request": "launch",
+            "mainClass": "hollow_daimond",
+            "projectName": "JAVA Full Course _cbbc34ea"
+        },
+        {
+            "type": "java",
+            "name": "hollow_Triangle",
+            "request": "launch",
+            "mainClass": "hollow_Triangle",
+            "projectName": "JAVA Full Course _cbbc34ea"
+        },
+        {
+            "type": "java",
+            "name": "star",
+            "request": "launch",
+            "mainClass": "star",
+            "projectName": "JAVA Full Course _cbbc34ea"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumbers",
+            "request": "launch",
+            "mainClass": "PrimeNumbers",
+            "projectName": "JAVA Full Course _cbbc34ea"
+        },
+        {
+            "type": "java",
+            "name": "GCDExample",
+            "request": "launch",
+            "mainClass": "GCDExample",
+            "projectName": "JAVA Full Course _cbbc34ea"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "JAVA Full Course _cbbc34ea"
+        },
+        {
+            "type": "java",
             "name": "FunctionsandMethods",
             "request": "launch",
             "mainClass": "FunctionsandMethods",
